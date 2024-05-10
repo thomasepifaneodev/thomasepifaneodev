@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thomás Epifâneo
+### Olá! Eu sou o Thomás Epifâneo 🤓💻
 
 ##
 
