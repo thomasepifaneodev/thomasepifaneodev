@@ -1,12 +1,26 @@
-### Olá! Eu sou o Thomás Epifâneo 🤓💻
+<h1>Olá, eu sou Thomás 👋</h1>
+<p>Sou um desenvolvedor júnior apaixonado por tecnologia e programação, com foco em Delphi, C# e PostgreSQL. Estou sempre buscando aprender mais e melhorar minhas habilidades, contribuindo para projetos interessantes e desafiadores.</p>
 
 ##
-
+<h1>Meu GitHub Stats</h1>
+<div>
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=thomasepifaneodev&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasepifaneodev&layout=compact&langs_count=8&card_width=350&show_icons=true&theme=dark"/>
+</div>
 
-##
+<h2>Sobre Mim</h2>
+<p>•	💻 Linguagens: Delphi, C#, JavaScript</p>
+<p>•	🗄️ Banco de Dados: PostgreSQL, FireBird e SQLite</p>
+<p>•	🌱 Aprendendo: Desenvolvimento Web, boas práticas de Clean Code, e metodologias ágeis</p>
+<p>•	🤝 Colaborando em: Projetos open-source e pequenas aplicações para aprimorar minhas habilidades</p>
 
-<img height=230 src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasepifaneodev&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark"/>
+<h2>Experiência</h2>
+<p>•	Desenvolvimento com Delphi: Construção de aplicações desktop, integração com bancos de dados e otimização de desempenho.</p>
+<p>•	Desenvolvimento com C#: Criação de aplicações .NET, desenvolvimento de APIs e implementação de padrões de design.</p>
+<p>•	Banco de Dados PostgreSQL: Modelagem de dados, escrita de queries complexas e otimização de desempenho.</p>
+<h2>Objetivos</h2>
+<p>Estou em busca de oportunidades para trabalhar em projetos desafiadores e contribuir para equipes dinâmicas, onde eu possa aprender e crescer como desenvolvedor. Estou particularmente interessado em desenvolvimento full-stack e tecnologias emergentes.
+Fique à vontade para adaptar essa descrição conforme necessário para refletir suas experiências e objetivos específicos. Boa sorte!</p>
 
 ##
 
